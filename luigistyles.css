@@ -1,0 +1,45 @@
+/*
+.container {
+
+
+}
+*/
+
+.box {
+    height: 100px;
+    background-clip: content-box;
+}
+
+.red {
+    height: 350px;
+    background-color: #EB1F22;
+}
+
+.yellow {
+    height: 90px;
+    background-color: #FFDA09;
+    }
+
+
+@font-face {
+    font-family: MarioFont;
+    src: url(SuperMario256.ttf);
+}
+h1 {
+    color: red;
+    text-align: left;
+    font-family: MarioFont;
+    padding-left: 50px;
+    font-weight: bold;
+}
+h2 {
+    color: red;
+    text-align: center;
+    font-family: MarioFont;
+    font-weight: bold;
+}
+p {
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
