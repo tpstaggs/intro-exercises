@@ -1,0 +1,27 @@
+/*
+.container {
+
+
+}
+*/
+
+    
+   
+
+.red {
+    background-color: #D9534F;
+    height: 400px;
+    margin:5px;
+}
+
+.blue {
+    background-color: #3498DB;
+    height: 400px;
+    margin: 5px;
+}
+
+.orange {
+    background-color: #F0AD4E;
+    height: 800px;
+    margin: 5px;
+}
